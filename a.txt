@@ -1,4 +1,4 @@
 Hello from user2
-Hello
+Hello everybody!
 Hello from user1
 
