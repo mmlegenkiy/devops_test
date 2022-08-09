@@ -3,4 +3,4 @@ info
 Hello to each from all!
 Hello everybody!
 Hello from user1
-
+end line important information
