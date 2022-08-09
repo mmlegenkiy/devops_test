@@ -1,4 +1,4 @@
 Hello from user2
-Hello
+Hello to each from all!
 Hello from user1
 
